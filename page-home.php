@@ -16,7 +16,8 @@
 					<div class="row">
 						<aside class="sidebar col-md-3">Sidebar</aside>
 						<div class="news col-md-9">
-							<p>This is news page!</p>
+						<p>This will be the news area of the Home Page</p>
+
 						</div>							
 					</div>
 				</div>
